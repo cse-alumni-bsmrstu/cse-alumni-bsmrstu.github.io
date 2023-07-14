@@ -2,12 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cse-alumni-bsmrstu.github.io/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://cse-alumni-bsmrstu.github.io/event/</loc>
+    <lastmod>2023-07-14T13:22:38+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cse-alumni-bsmrstu.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://cse-alumni-bsmrstu.github.io/event/upcoming-meeting-july-23/</loc>
+    <lastmod>2023-07-14T13:22:38+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cse-alumni-bsmrstu.github.io/event/alumni-association-member-selection/</loc>
+    <lastmod>2023-05-27T13:34:21+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cse-alumni-bsmrstu.github.io/post/first-alumni-association-committee/</loc>
+    <lastmod>2023-05-27T13:34:21+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cse-alumni-bsmrstu.github.io/post/</loc>
+    <lastmod>2023-05-27T13:34:21+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cse-alumni-bsmrstu.github.io/</loc>
@@ -26,19 +38,11 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cse-alumni-bsmrstu.github.io/post/20-12-02-icml-best-paper/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cse-alumni-bsmrstu.github.io/post/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cse-alumni-bsmrstu.github.io/post/20-12-01-wowchemy-prize/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cse-alumni-bsmrstu.github.io/publication-type/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cse-alumni-bsmrstu.github.io/author/admin/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -47,10 +51,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cse-alumni-bsmrstu.github.io/authors/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cse-alumni-bsmrstu.github.io/author/nelson-bighetti/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -93,10 +93,37 @@
     <loc>https://cse-alumni-bsmrstu.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cse-alumni-bsmrstu.github.io/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://cse-alumni-bsmrstu.github.io/author/anamika-gain/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cse-alumni-bsmrstu.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cse-alumni-bsmrstu.github.io/author/chowdhury-salman-rahman/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cse-alumni-bsmrstu.github.io/author/hirok-dakua/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cse-alumni-bsmrstu.github.io/author/md-abul-ala-walid/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cse-alumni-bsmrstu.github.io/author/md-mahmudul-hasan/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cse-alumni-bsmrstu.github.io/author/md-rakibul-islam-sahar/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cse-alumni-bsmrstu.github.io/author/md-tahmid-hasan/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cse-alumni-bsmrstu.github.io/author/mostofa-omar-fattha/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cse-alumni-bsmrstu.github.io/author/shaikh-al-amin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cse-alumni-bsmrstu.github.io/author/uzzal-podder/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
